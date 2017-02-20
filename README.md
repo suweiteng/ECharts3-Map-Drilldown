@@ -9,5 +9,5 @@ ECharts3中国地图下钻
 
 下载访问时需有运行环境 （  $.get(））
 
-# HighMap版本：http://runjs.cn/detail/n06xuckl 
+# HighMap版本：http://runjs.cn/detail/n06xuckl
 
